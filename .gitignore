@@ -1,0 +1,24 @@
+# ── Python ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ── Ambientes virtuais ──────────────────────────────────
+venv_tcc/
+venv/
+.venv/
+env/
+
+# ── Sistema operacional ─────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editores / IDEs ──────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── Jupyter (se exportar notebook além do .py) ──────────
+*.ipynb_checkpoints
